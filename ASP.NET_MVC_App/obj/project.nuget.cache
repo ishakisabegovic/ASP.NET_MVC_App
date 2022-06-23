@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0upLbf5P4RpA0796UoZKra2FnBduFj96rm8XDNZZMFv6r+MPOCuhb48gpPaj2uGkwq6DkzNxmoWgKHI78qHzRQ==",
+  "dgSpecHash": "v6Yiz7vIGWUQLfTAF6agQjqvH6AQF34OLvDihcWSw8aqW1ZdMrFxw+2/kkZLEa3rg6ZAn7e1VpxAD0sT4S4buQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isko\\Desktop\\ReactDotNet_App\\ASP.NET_MVC_App\\ASP.NET_MVC_App\\ASP.NET_MVC_App.csproj",
+  "projectFilePath": "E:\\PROJEKTI\\ASP.NET_MVC_App\\ASP.NET_MVC_App\\ASP.NET_MVC_App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isko\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Isko\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
